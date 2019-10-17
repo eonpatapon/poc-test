@@ -1,4 +1,3 @@
 # poc-test
 
 test
-foo
