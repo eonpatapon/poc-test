@@ -1,0 +1,8 @@
+build-and-deploy:
+  image:
+    name: eonpatapon/poc-test
+  repository:
+    url: http://github.com/eonpatapon/poc-test
+  secrets:
+    docker:
+      url: docker.io
